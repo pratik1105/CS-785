@@ -7,7 +7,7 @@ Semester - Winter(Jan-May)
 
 Professor - Harish Karnick
 
-<bold> Project Description</bold> :
+<b> Project Description</b> :
 
 Investigation of rumor dissemination process in an evolutionary game setup.
 Further detail will be added as with progress in the project.
