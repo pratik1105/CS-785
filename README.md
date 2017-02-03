@@ -12,3 +12,5 @@ Multiagent systems course at IIT Kanpur.
 Investigation of rumor dissemination process in an evolutionary game setup.
 Further detail will be added with progress in the project.
 
+Project work done in association with Vagish Choudhary and Jatin Gupta, Y14 batch IIT kanpur. 
+
